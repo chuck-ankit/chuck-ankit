@@ -1,8 +1,5 @@
 # 👨‍💻 Ankit Kumar | Full-Stack Developer & Machine Learning Engineer
 
-## 🚀 About Me
-Passionate Full-Stack Developer and Machine Learning Engineer with a proven track record of delivering innovative technological solutions. As a final-year Computer Science student at Galgotias University, I specialize in end-to-end development, backend optimizations, and cutting-edge machine learning applications.
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankitkeshri0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkumar9864@gmail.com)
@@ -17,15 +14,27 @@ Passionate Full-Stack Developer and Machine Learning Engineer with a proven trac
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🔧 Server-Side
+### 🔧 Server-Side & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### 🤖 Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=databricks&logoColor=white)
+![Generative%20AI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+![Deep%20Learning](https://img.shields.io/badge/Deep%20Learning-4A90E2?style=for-the-badge&logo=deep-learning&logoColor=white)
+
 ### 💾 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🎨 Design & Prototyping
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -33,41 +42,11 @@ Passionate Full-Stack Developer and Machine Learning Engineer with a proven trac
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🏆 Professional Experience
-
-### 🖥️ Front-End Developer Intern @ Zeepty (May 2024 - Nov 2024)
-- Developed responsive user interfaces using React.js, Next.js, and Tailwind CSS
-- Improved page load times by 25% through optimized implementation
-- Integrated APIs with Axios to enhance app interactivity
-
-### 🤖 Machine Learning Intern @ Bharat Intern (Feb 2024 - Mar 2024)
-- Built and deployed machine learning models in Python
-- Reduced computational latency by 20% through efficient model design
-- Achieved 85% accuracy in predictive tasks through advanced data preprocessing
-
-## 🚀 Notable Projects
-
-### 📄 FileQuery: LLM ChatBot
-- Interactive chatbot for PDF, CSV, and text data analysis
-- Technologies: Python, Streamlit, LangChain, OpenAI API
-
-### 🩺 Cloud-based Telemedicine Solution
-- Developed platform connecting patients with healthcare providers
-- Integrated real-time data and video chat capabilities
-- Technologies: AWS (Lambda, DynamoDB), React.js, Node.js
-
-### ❤️ BeatWise: Heart Disease Detection Web App
-- Machine learning-powered web application for heart disease risk prediction
-- Technologies: Django, Python, HTML, CSS, JavaScript
-
-## 🎓 Education
-**B.Tech in Computer Science** | Galgotias University
-- GPA: 8.0/10.0
-
-## 🏅 Certifications
-- IBM – Big Data & Data Science Professional
-- AWS – Academy Cloud Foundations
-- GeeksforGeeks – Data Structure & Algorithm with Project Bootcamp
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuck-ankit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=chuck-ankit&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ## 💡 Soft Skills
 Problem Solving | Teamwork | Communication | Adaptability | Continuous Learning
