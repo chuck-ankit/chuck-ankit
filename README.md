@@ -44,9 +44,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuck-ankit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=chuck-ankit&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuck-ankit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=chuck-ankit&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ## 💡 Soft Skills
