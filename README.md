@@ -50,10 +50,16 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chuck-ankit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="chuck-ankit's Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuck-ankit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=chuck-ankit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
+       alt="chuck-ankit's Stats" 
+       style="height: 200px; width: auto;">
+  <img src="https://streak-stats.demolab.com/?user=chuck-ankit&theme=vue-dark&hide_border=true" 
+     alt="chuck-ankit's Streak" 
+     style="height: 200px; width: auto;">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuck-ankit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
+       alt="chuck-ankit's Top Languages" 
+       style="height: 200px; width: auto;">
 </div>  
-  ![chuck-ankit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chuck-ankit&theme=vue-dark&hide_border=true)
 
 ## 💡 Soft Skills
 Problem Solving | Teamwork | Communication | Adaptability | Continuous Learning
