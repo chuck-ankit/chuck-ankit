@@ -49,14 +49,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=chuck-ankit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
        alt="chuck-ankit's Stats" 
        style="height: 200px; width: auto;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuck-ankit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
        alt="chuck-ankit's Top Languages" 
        style="height: 200px; width: auto;">
-
+</div>
 ## 💡 Soft Skills
 Problem Solving | Teamwork | Communication | Adaptability | Continuous Learning
 
