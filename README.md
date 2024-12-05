@@ -57,6 +57,7 @@
        alt="chuck-ankit's Top Languages" 
        style="height: 200px; width: auto;">
 </div>
+
 ## 💡 Soft Skills
 Problem Solving | Teamwork | Communication | Adaptability | Continuous Learning
 
