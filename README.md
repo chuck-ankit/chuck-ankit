@@ -50,9 +50,9 @@
 
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=chuck-ankit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=chuck-ankit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
        alt="chuck-ankit's Stats" 
-       style="height: 200px; flex-shrink: 0;">
+       style="height: 200px; flex-shrink: 0;"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuck-ankit&theme=vue-dark&hide_border=true" 
        alt="chuck-ankit's Streak" 
        style="height: 200px; flex-shrink: 0;">
