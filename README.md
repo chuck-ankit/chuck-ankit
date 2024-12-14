@@ -57,7 +57,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-profile-trophy.vercel.app/?username=chuck-ankit&theme=radical&margin-w=4" alt="GitHub Trophy"></td>
+    <td colspan="2"><img src="https://github-profile-trophy.vercel.app/?username=chuck-ankit&theme=radical&margin-w=4" alt="GitHub Trophy"></td>
   </tr>
   <tr>
     <td><a href="https://bento.me/ankit-k"><img src="https://streak-stats.demolab.com?user=chuck-ankit&theme=nord&hide_border=true" alt="GitHub Streak"></a></td>
