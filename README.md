@@ -1,10 +1,13 @@
 # 👨‍💻 Ankit Kumar | Full-Stack Developer & Machine Learning Engineer
 
+[![Visit My Website](https://img.shields.io/badge/Website-bento.me%2Fankit--k-blue?style=for-the-badge&logo=internetexplorer)](https://bento.me/ankit-k)
+
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankitkeshri0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkumar9864@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chuck-ankit)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/snobby_coder)
+[![Visit My Website](https://img.shields.io/badge/Website-bento.me%2Fankit--k-blue?style=for-the-badge&logo=internetexplorer)](https://bento.me/ankit-k)
 
 ## 💻 Technologies & Skills
 
@@ -50,17 +53,12 @@
 
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=chuck-ankit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
-       alt="chuck-ankit's Stats" 
-       style="height: 200px; flex-shrink: 0;"> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chuck-ankit&theme=vue-dark&hide_border=true" 
-       alt="chuck-ankit's Streak" 
-       style="height: 200px; flex-shrink: 0;">
+  <a href="https://bento.me/ankit-k"><img src="https://streak-stats.demolab.com?user=chuck-ankit&theme=nord&hide_border=true"></a>
+  <a href="https://bento.me/ankit-k"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuck-ankit&theme=nord_dark"></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuck-ankit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
        alt="chuck-ankit's Top Languages" 
        style="height: 200px; flex-shrink: 0;">
 </div>
-
 
 ## 💡 Soft Skills
 Problem Solving | Teamwork | Communication | Adaptability | Continuous Learning
@@ -71,7 +69,5 @@ Problem Solving | Teamwork | Communication | Adaptability | Continuous Learning
 ---
 [![](https://visitcount.itsvg.in/api?id=chuck-ankit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 ---
 [![An image of @chuckankit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chuckankit)](https://holopin.io/@chuckankit)
-
