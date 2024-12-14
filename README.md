@@ -104,11 +104,3 @@ Problem Solving | Teamwork | Communication | Adaptability | Continuous Learning
 
 ---
 
-### **Key Improvements**
-1. **Structured Sections:** Added an "About Me" section for a brief introduction.
-2. **Uniform Icons:** Maintained consistent badge styles across categories.
-3. **Readability:** Grouped technologies under well-defined subcategories.
-4. **Visual Balance:** Adjusted spacing and alignment for better readability.
-5. **Highlights:** Improved the description for tools/sections to give context.  
-
-Let me know if you’d like further refinements!
