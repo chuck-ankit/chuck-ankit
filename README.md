@@ -54,10 +54,12 @@
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
   <a href="https://bento.me/ankit-k"><img src="https://streak-stats.demolab.com?user=chuck-ankit&theme=nord&hide_border=true"></a>
-  <a href="https://bento.me/ankit-k"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuck-ankit&theme=nord_dark"></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuck-ankit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
        alt="chuck-ankit's Top Languages" 
        style="height: 200px; flex-shrink: 0;">
+</div>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://bento.me/ankit-k"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuck-ankit&theme=nord_dark"></a>
 </div>
 
 ## 💡 Soft Skills
