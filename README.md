@@ -1,7 +1,7 @@
 
 ---
 
-# 👨‍💻 **Ankit Kumar** | *Full-Stack Developer & Machine Learning Engineer*
+# 👨‍💻 **Ankit Kumar** | *Web Developer & Machine Learning Engineer*
 
 [![Visit My Website](https://img.shields.io/badge/🌐-Visit%20My%20Website-blue?style=for-the-badge&logo=internetexplorer)](https://bento.me/ankit-k)
 
@@ -78,7 +78,7 @@ Passionate Full-Stack Developer and Machine Learning Engineer, blending modern w
   </tr>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=chuck-ankit&theme=nord&hide_border=true" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats-salesp07.vercel.app?user=chuck-ankit&theme=nord" alt="GitHub Streak">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuck-ankit&theme=vue-dark&layout=compact&hide_border=true" alt="Top Languages">
