@@ -93,8 +93,5 @@ Passionate Full-Stack Developer and Machine Learning Engineer, blending modern w
 
 ---
 
-## 💡 Soft Skills
-Problem Solving | Teamwork | Communication | Adaptability | Continuous Learning
 
----
 
